@@ -1,0 +1,11 @@
+raw_data/
+*.zip
+*.png
+*.npz
+wandb/
+*.csv.gz
+*.pt
+*.pyc
+*.sdf
+*.csv
+experiments/*
